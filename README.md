@@ -5,10 +5,12 @@ That is my leetcode journey
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -26,4 +28,20 @@ That is my leetcode journey
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
