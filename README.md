@@ -43,6 +43,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/JatinThakur-797/Leetcode/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/JatinThakur-797/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/JatinThakur-797/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
