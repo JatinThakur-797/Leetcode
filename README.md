@@ -42,6 +42,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/JatinThakur-797/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
