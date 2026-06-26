@@ -17,6 +17,7 @@ That is my leetcode journey
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/JatinThakur-797/Leetcode/tree/master/0190-reverse-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -41,6 +42,7 @@ That is my leetcode journey
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/JatinThakur-797/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/JatinThakur-797/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
