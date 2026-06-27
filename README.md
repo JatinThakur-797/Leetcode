@@ -5,6 +5,7 @@ That is my leetcode journey
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JatinThakur-797/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -44,6 +45,7 @@ That is my leetcode journey
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/JatinThakur-797/Leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/JatinThakur-797/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
