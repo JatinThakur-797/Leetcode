@@ -39,6 +39,7 @@ That is my leetcode journey
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/JatinThakur-797/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/JatinThakur-797/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/JatinThakur-797/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ That is my leetcode journey
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/JatinThakur-797/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/JatinThakur-797/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/JatinThakur-797/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0090-subsets-ii) |
