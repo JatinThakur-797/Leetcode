@@ -37,6 +37,7 @@ That is my leetcode journey
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/JatinThakur-797/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ That is my leetcode journey
 | [0137-single-number-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/JatinThakur-797/Leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/JatinThakur-797/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/JatinThakur-797/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/JatinThakur-797/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
@@ -60,4 +62,8 @@ That is my leetcode journey
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JatinThakur-797/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/JatinThakur-797/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
