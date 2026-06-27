@@ -5,6 +5,7 @@ That is my leetcode journey
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JatinThakur-797/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
@@ -46,6 +47,7 @@ That is my leetcode journey
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JatinThakur-797/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/JatinThakur-797/Leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/JatinThakur-797/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -66,4 +68,8 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/JatinThakur-797/Leetcode/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JatinThakur-797/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
