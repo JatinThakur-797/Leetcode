@@ -20,6 +20,7 @@ That is my leetcode journey
 | ------- |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JatinThakur-797/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -95,6 +96,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JatinThakur-797/Leetcode/tree/master/0067-add-binary) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JatinThakur-797/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
 |  |
@@ -109,4 +111,8 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/JatinThakur-797/Leetcode/tree/master/0861-score-after-flipping-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
