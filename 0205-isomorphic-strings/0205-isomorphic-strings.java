@@ -9,11 +9,8 @@ class Solution {
                char temp = map.get(sc);
                if(st != temp) return false;
             }
-            if(map.containsValue(st)){
-                if(map.containsKey(sc)){
-               char temp = map.get(sc);
-               if(st != temp) return false;
-                }else return false;
+            else if(map.containsValue(st)){
+               return false;
             }
 
             map.put(sc,st);
