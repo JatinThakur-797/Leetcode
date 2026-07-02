@@ -10,6 +10,7 @@ That is my leetcode journey
 | [0137-single-number-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/JatinThakur-797/Leetcode/tree/master/0706-design-hashmap) |
 | [0861-score-after-flipping-matrix](https://github.com/JatinThakur-797/Leetcode/tree/master/0861-score-after-flipping-matrix) |
@@ -27,6 +28,7 @@ That is my leetcode journey
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/JatinThakur-797/Leetcode/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/JatinThakur-797/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
@@ -67,6 +69,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -90,6 +93,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JatinThakur-797/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
@@ -192,4 +196,8 @@ That is my leetcode journey
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JatinThakur-797/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
