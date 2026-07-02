@@ -5,6 +5,7 @@ That is my leetcode journey
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/JatinThakur-797/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0137-single-number-ii) |
@@ -24,6 +25,7 @@ That is my leetcode journey
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/JatinThakur-797/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
@@ -92,6 +94,7 @@ That is my leetcode journey
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
@@ -113,6 +116,7 @@ That is my leetcode journey
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/JatinThakur-797/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/JatinThakur-797/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/JatinThakur-797/Leetcode/tree/master/0290-word-pattern) |
