@@ -8,6 +8,7 @@ That is my leetcode journey
 | [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/JatinThakur-797/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
@@ -27,6 +28,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/JatinThakur-797/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
@@ -187,6 +189,7 @@ That is my leetcode journey
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
