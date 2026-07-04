@@ -184,12 +184,14 @@ That is my leetcode journey
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JatinThakur-797/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JatinThakur-797/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JatinThakur-797/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -201,6 +203,7 @@ That is my leetcode journey
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JatinThakur-797/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/JatinThakur-797/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -230,4 +233,8 @@ That is my leetcode journey
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/JatinThakur-797/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JatinThakur-797/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
