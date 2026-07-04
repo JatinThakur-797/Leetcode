@@ -73,6 +73,7 @@ That is my leetcode journey
 | [0371-sum-of-two-integers](https://github.com/JatinThakur-797/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JatinThakur-797/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -232,6 +234,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/JatinThakur-797/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Topological Sort
 |  |
 | ------- |
