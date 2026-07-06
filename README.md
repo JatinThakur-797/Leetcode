@@ -51,6 +51,7 @@ That is my leetcode journey
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/JatinThakur-797/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JatinThakur-797/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -70,6 +71,7 @@ That is my leetcode journey
 ## Prefix Sum
 |  |
 | ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
@@ -109,6 +111,7 @@ That is my leetcode journey
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/JatinThakur-797/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +153,7 @@ That is my leetcode journey
 | [0767-reorganize-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JatinThakur-797/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
 |  |
@@ -255,6 +259,7 @@ That is my leetcode journey
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1301-number-of-paths-with-max-score](https://github.com/JatinThakur-797/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3620-network-recovery-pathways](https://github.com/JatinThakur-797/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Topological Sort
