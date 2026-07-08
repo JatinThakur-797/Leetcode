@@ -5,6 +5,7 @@ That is my leetcode journey
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/JatinThakur-797/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/JatinThakur-797/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0090-subsets-ii) |
@@ -118,6 +119,7 @@ That is my leetcode journey
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/JatinThakur-797/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -263,6 +265,7 @@ That is my leetcode journey
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/JatinThakur-797/Leetcode/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/JatinThakur-797/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
