@@ -163,6 +163,7 @@ That is my leetcode journey
 | [0290-word-pattern](https://github.com/JatinThakur-797/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/JatinThakur-797/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/JatinThakur-797/Leetcode/tree/master/0443-string-compression) |
 | [0535-encode-and-decode-tinyurl](https://github.com/JatinThakur-797/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0767-reorganize-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -278,6 +279,7 @@ That is my leetcode journey
 | [0016-3sum-closest](https://github.com/JatinThakur-797/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/JatinThakur-797/Leetcode/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/JatinThakur-797/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/JatinThakur-797/Leetcode/tree/master/1768-merge-strings-alternately) |
