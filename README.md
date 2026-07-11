@@ -162,6 +162,7 @@ That is my leetcode journey
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JatinThakur-797/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/JatinThakur-797/Leetcode/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/JatinThakur-797/Leetcode/tree/master/0127-word-ladder) |
@@ -288,6 +289,7 @@ That is my leetcode journey
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JatinThakur-797/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/JatinThakur-797/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -300,6 +302,7 @@ That is my leetcode journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JatinThakur-797/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1301-number-of-paths-with-max-score](https://github.com/JatinThakur-797/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
