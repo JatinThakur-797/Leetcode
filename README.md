@@ -7,6 +7,7 @@ That is my leetcode journey
 | ------- |
 | [0016-3sum-closest](https://github.com/JatinThakur-797/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/JatinThakur-797/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0090-subsets-ii) |
@@ -292,6 +293,7 @@ That is my leetcode journey
 | [0005-longest-palindromic-substring](https://github.com/JatinThakur-797/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/JatinThakur-797/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/JatinThakur-797/Leetcode/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/JatinThakur-797/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -303,6 +305,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JatinThakur-797/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1301-number-of-paths-with-max-score](https://github.com/JatinThakur-797/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -325,5 +328,10 @@ That is my leetcode journey
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/JatinThakur-797/Leetcode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
