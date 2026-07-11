@@ -30,6 +30,7 @@ That is my leetcode journey
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JatinThakur-797/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JatinThakur-797/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/JatinThakur-797/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/JatinThakur-797/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JatinThakur-797/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -210,6 +211,7 @@ That is my leetcode journey
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/JatinThakur-797/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Linked List
 |  |
 | ------- |
@@ -228,6 +230,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/JatinThakur-797/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Counting
 |  |
 | ------- |
@@ -334,4 +337,8 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/JatinThakur-797/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
