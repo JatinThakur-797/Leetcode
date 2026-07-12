@@ -25,6 +25,7 @@ That is my leetcode journey
 | [0977-squares-of-a-sorted-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/JatinThakur-797/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/JatinThakur-797/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JatinThakur-797/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JatinThakur-797/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -57,6 +58,7 @@ That is my leetcode journey
 | [0706-design-hashmap](https://github.com/JatinThakur-797/Leetcode/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [1331-rank-transform-of-an-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -142,6 +144,7 @@ That is my leetcode journey
 | [0881-boats-to-save-people](https://github.com/JatinThakur-797/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/JatinThakur-797/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JatinThakur-797/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JatinThakur-797/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JatinThakur-797/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
