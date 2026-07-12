@@ -15,6 +15,7 @@ That is my leetcode journey
 | [0137-single-number-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -84,6 +85,7 @@ That is my leetcode journey
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -224,6 +226,7 @@ That is my leetcode journey
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/JatinThakur-797/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/JatinThakur-797/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
