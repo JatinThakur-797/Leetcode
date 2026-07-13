@@ -156,6 +156,7 @@ That is my leetcode journey
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/JatinThakur-797/Leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JatinThakur-797/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
