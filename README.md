@@ -194,6 +194,7 @@ That is my leetcode journey
 | [0127-word-ladder](https://github.com/JatinThakur-797/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/JatinThakur-797/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/JatinThakur-797/Leetcode/tree/master/0290-word-pattern) |
+| [0316-remove-duplicate-letters](https://github.com/JatinThakur-797/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/JatinThakur-797/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/JatinThakur-797/Leetcode/tree/master/0443-string-compression) |
@@ -216,6 +217,7 @@ That is my leetcode journey
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/JatinThakur-797/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0767-reorganize-string) |
 | [0861-score-after-flipping-matrix](https://github.com/JatinThakur-797/Leetcode/tree/master/0861-score-after-flipping-matrix) |
@@ -361,11 +363,13 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/JatinThakur-797/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0844-backspace-string-compare](https://github.com/JatinThakur-797/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/JatinThakur-797/Leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Queue
 |  |
 | ------- |
