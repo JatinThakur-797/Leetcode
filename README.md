@@ -202,6 +202,7 @@ That is my leetcode journey
 | [0767-reorganize-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0844-backspace-string-compare](https://github.com/JatinThakur-797/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JatinThakur-797/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -222,6 +223,7 @@ That is my leetcode journey
 | [0767-reorganize-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0767-reorganize-string) |
 | [0861-score-after-flipping-matrix](https://github.com/JatinThakur-797/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/JatinThakur-797/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JatinThakur-797/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JatinThakur-797/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JatinThakur-797/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -365,11 +367,13 @@ That is my leetcode journey
 | [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/JatinThakur-797/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0844-backspace-string-compare](https://github.com/JatinThakur-797/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/JatinThakur-797/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
