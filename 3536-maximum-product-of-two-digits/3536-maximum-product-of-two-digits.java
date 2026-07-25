@@ -1,14 +1,19 @@
 class Solution {
-    public int maxProduct(int num) {
+    public int maxProduct(int n) {
         // [1,2,3,4,5,6,7,8,9]
-         int[] digits = Integer.toString(num)
-                              .chars()
-                              .map(c -> c - '0')
-                              .toArray();
+        int max1 = 0 , max2= 0;
 
-        Arrays.sort(digits);
+        while(n > 0){
+            int digit = n % 10;
+            if(digit > max1){
+                max2 = max1;
+                max1 = digit;
+            }else if(digit > max2){
+                max2 = digit;
+            }
 
-        int n = digits.length;
-        return digits[n-1] * digits[n-2];
+            n /= 10;
+        }
+        return max1 * max2;
     }
 }
