@@ -16,6 +16,7 @@ That is my leetcode journey
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0525-contiguous-array) |
@@ -101,6 +102,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -254,6 +256,7 @@ That is my leetcode journey
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0861-score-after-flipping-matrix](https://github.com/JatinThakur-797/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/JatinThakur-797/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -272,6 +275,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/JatinThakur-797/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/JatinThakur-797/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
