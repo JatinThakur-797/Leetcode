@@ -29,6 +29,7 @@ That is my leetcode journey
 | [0739-daily-temperatures](https://github.com/JatinThakur-797/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0861-score-after-flipping-matrix](https://github.com/JatinThakur-797/Leetcode/tree/master/0861-score-after-flipping-matrix) |
+| [0875-koko-eating-bananas](https://github.com/JatinThakur-797/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/JatinThakur-797/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -151,6 +152,7 @@ That is my leetcode journey
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0875-koko-eating-bananas](https://github.com/JatinThakur-797/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JatinThakur-797/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
