@@ -17,6 +17,7 @@ That is my leetcode journey
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0525-contiguous-array) |
@@ -66,6 +67,7 @@ That is my leetcode journey
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/JatinThakur-797/Leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/JatinThakur-797/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -94,6 +96,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/JatinThakur-797/Leetcode/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -182,6 +185,7 @@ That is my leetcode journey
 | [0018-4sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JatinThakur-797/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
@@ -303,6 +307,7 @@ That is my leetcode journey
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/JatinThakur-797/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0767-reorganize-string) |
@@ -330,6 +335,7 @@ That is my leetcode journey
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -438,4 +444,12 @@ That is my leetcode journey
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
