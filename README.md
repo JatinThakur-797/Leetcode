@@ -84,6 +84,7 @@ That is my leetcode journey
 | [0525-contiguous-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/JatinThakur-797/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/JatinThakur-797/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/JatinThakur-797/Leetcode/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -255,6 +256,7 @@ That is my leetcode journey
 | [0438-find-all-anagrams-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/JatinThakur-797/Leetcode/tree/master/0443-string-compression) |
 | [0535-encode-and-decode-tinyurl](https://github.com/JatinThakur-797/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0844-backspace-string-compare](https://github.com/JatinThakur-797/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -304,6 +306,7 @@ That is my leetcode journey
 | [0003-longest-substring-without-repeating-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/JatinThakur-797/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -404,6 +407,7 @@ That is my leetcode journey
 | [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/JatinThakur-797/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/JatinThakur-797/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/JatinThakur-797/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
