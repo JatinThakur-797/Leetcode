@@ -79,6 +79,7 @@ That is my leetcode journey
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/JatinThakur-797/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/JatinThakur-797/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -251,6 +252,7 @@ That is my leetcode journey
 | [0316-remove-duplicate-letters](https://github.com/JatinThakur-797/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/JatinThakur-797/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/JatinThakur-797/Leetcode/tree/master/0443-string-compression) |
 | [0535-encode-and-decode-tinyurl](https://github.com/JatinThakur-797/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0767-reorganize-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0767-reorganize-string) |
@@ -301,6 +303,7 @@ That is my leetcode journey
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/JatinThakur-797/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
