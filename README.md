@@ -251,6 +251,7 @@ That is my leetcode journey
 | [0005-longest-palindromic-substring](https://github.com/JatinThakur-797/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/JatinThakur-797/Leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/JatinThakur-797/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/JatinThakur-797/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/JatinThakur-797/Leetcode/tree/master/0290-word-pattern) |
@@ -425,6 +426,7 @@ That is my leetcode journey
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JatinThakur-797/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1301-number-of-paths-with-max-score](https://github.com/JatinThakur-797/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
