@@ -42,6 +42,7 @@ That is my leetcode journey
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JatinThakur-797/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JatinThakur-797/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -104,6 +105,7 @@ That is my leetcode journey
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JatinThakur-797/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JatinThakur-797/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/JatinThakur-797/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JatinThakur-797/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -291,6 +293,7 @@ That is my leetcode journey
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JatinThakur-797/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1768-merge-strings-alternately](https://github.com/JatinThakur-797/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JatinThakur-797/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
