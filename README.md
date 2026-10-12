@@ -153,6 +153,7 @@ That is my leetcode journey
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/JatinThakur-797/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/JatinThakur-797/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/JatinThakur-797/Leetcode/tree/master/0231-power-of-two) |
