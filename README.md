@@ -157,6 +157,7 @@ That is my leetcode journey
 | [0009-palindrome-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/JatinThakur-797/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/JatinThakur-797/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/JatinThakur-797/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/JatinThakur-797/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JatinThakur-797/Leetcode/tree/master/0342-power-of-four) |
@@ -476,6 +477,7 @@ That is my leetcode journey
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JatinThakur-797/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/JatinThakur-797/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0509-fibonacci-number) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -568,5 +570,6 @@ That is my leetcode journey
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JatinThakur-797/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
