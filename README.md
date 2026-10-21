@@ -160,6 +160,7 @@ That is my leetcode journey
 | [0070-climbing-stairs](https://github.com/JatinThakur-797/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/JatinThakur-797/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/JatinThakur-797/Leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/JatinThakur-797/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/JatinThakur-797/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0509-fibonacci-number) |
@@ -405,6 +406,7 @@ That is my leetcode journey
 | [0102-binary-tree-level-order-traversal](https://github.com/JatinThakur-797/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0127-word-ladder](https://github.com/JatinThakur-797/Leetcode/tree/master/0127-word-ladder) |
+| [0279-perfect-squares](https://github.com/JatinThakur-797/Leetcode/tree/master/0279-perfect-squares) |
 | [1096-brace-expansion-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JatinThakur-797/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JatinThakur-797/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -480,6 +482,7 @@ That is my leetcode journey
 | [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/JatinThakur-797/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0279-perfect-squares](https://github.com/JatinThakur-797/Leetcode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0509-fibonacci-number) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -575,4 +578,12 @@ That is my leetcode journey
 | [0070-climbing-stairs](https://github.com/JatinThakur-797/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/JatinThakur-797/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/JatinThakur-797/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/JatinThakur-797/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
