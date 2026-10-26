@@ -19,6 +19,7 @@ That is my leetcode journey
 | [0304-range-sum-query-2d-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JatinThakur-797/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -486,6 +487,7 @@ That is my leetcode journey
 | [0070-climbing-stairs](https://github.com/JatinThakur-797/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0279-perfect-squares](https://github.com/JatinThakur-797/Leetcode/tree/master/0279-perfect-squares) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0509-fibonacci-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0509-fibonacci-number) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0940-distinct-subsequences-ii) |
