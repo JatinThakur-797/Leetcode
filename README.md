@@ -19,6 +19,7 @@ That is my leetcode journey
 | [0304-range-sum-query-2d-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/JatinThakur-797/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0525-contiguous-array) |
@@ -361,6 +362,7 @@ That is my leetcode journey
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/JatinThakur-797/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/JatinThakur-797/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/JatinThakur-797/Leetcode/tree/master/0567-permutation-in-string) |
@@ -487,6 +489,7 @@ That is my leetcode journey
 | [0070-climbing-stairs](https://github.com/JatinThakur-797/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0279-perfect-squares](https://github.com/JatinThakur-797/Leetcode/tree/master/0279-perfect-squares) |
+| [0413-arithmetic-slices](https://github.com/JatinThakur-797/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0509-fibonacci-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0509-fibonacci-number) |
 | [0792-number-of-matching-subsequences](https://github.com/JatinThakur-797/Leetcode/tree/master/0792-number-of-matching-subsequences) |
