@@ -70,6 +70,7 @@ That is my leetcode journey
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/JatinThakur-797/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JatinThakur-797/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -129,10 +130,12 @@ That is my leetcode journey
 | [0190-reverse-bits](https://github.com/JatinThakur-797/Leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JatinThakur-797/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JatinThakur-797/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -230,6 +233,7 @@ That is my leetcode journey
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JatinThakur-797/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JatinThakur-797/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -325,6 +329,7 @@ That is my leetcode journey
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JatinThakur-797/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -462,6 +467,7 @@ That is my leetcode journey
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/JatinThakur-797/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JatinThakur-797/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JatinThakur-797/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -517,6 +523,7 @@ That is my leetcode journey
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JatinThakur-797/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JatinThakur-797/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JatinThakur-797/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -600,4 +607,8 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/JatinThakur-797/Leetcode/tree/master/0279-perfect-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/JatinThakur-797/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
