@@ -21,6 +21,7 @@ That is my leetcode journey
 | [0350-intersection-of-two-arrays-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/JatinThakur-797/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/JatinThakur-797/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JatinThakur-797/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -176,6 +177,7 @@ That is my leetcode journey
 | [0279-perfect-squares](https://github.com/JatinThakur-797/Leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/JatinThakur-797/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/JatinThakur-797/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/JatinThakur-797/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JatinThakur-797/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
