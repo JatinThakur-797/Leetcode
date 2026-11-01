@@ -57,6 +57,7 @@ That is my leetcode journey
 | [2196-create-binary-tree-from-descriptions](https://github.com/JatinThakur-797/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/JatinThakur-797/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2536-increment-submatrices-by-one](https://github.com/JatinThakur-797/Leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/JatinThakur-797/Leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JatinThakur-797/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -185,6 +186,7 @@ That is my leetcode journey
 | [1512-number-of-good-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/JatinThakur-797/Leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JatinThakur-797/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JatinThakur-797/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -570,6 +572,7 @@ That is my leetcode journey
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/JatinThakur-797/Leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JatinThakur-797/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JatinThakur-797/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JatinThakur-797/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -604,10 +607,12 @@ That is my leetcode journey
 |  |
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/JatinThakur-797/Leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/JatinThakur-797/Leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Memoization
 |  |
 | ------- |
