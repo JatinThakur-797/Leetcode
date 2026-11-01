@@ -46,6 +46,7 @@ That is my leetcode journey
 | [1480-running-sum-of-1d-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JatinThakur-797/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1590-make-sum-divisible-by-p](https://github.com/JatinThakur-797/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JatinThakur-797/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JatinThakur-797/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -114,6 +115,7 @@ That is my leetcode journey
 | [1512-number-of-good-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JatinThakur-797/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1590-make-sum-divisible-by-p](https://github.com/JatinThakur-797/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JatinThakur-797/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -154,6 +156,7 @@ That is my leetcode journey
 | [1314-matrix-block-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1590-make-sum-divisible-by-p](https://github.com/JatinThakur-797/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2536-increment-submatrices-by-one](https://github.com/JatinThakur-797/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JatinThakur-797/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
