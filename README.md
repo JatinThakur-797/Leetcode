@@ -48,6 +48,7 @@ That is my leetcode journey
 | [1331-rank-transform-of-an-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JatinThakur-797/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JatinThakur-797/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1441-build-an-array-with-stack-operations](https://github.com/JatinThakur-797/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -364,6 +365,7 @@ That is my leetcode journey
 | ------- |
 | [0067-add-binary](https://github.com/JatinThakur-797/Leetcode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/JatinThakur-797/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/JatinThakur-797/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -579,6 +581,7 @@ That is my leetcode journey
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JatinThakur-797/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1441-build-an-array-with-stack-operations](https://github.com/JatinThakur-797/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JatinThakur-797/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JatinThakur-797/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
