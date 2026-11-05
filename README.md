@@ -7,6 +7,7 @@ That is my leetcode journey
 | ------- |
 | [0016-3sum-closest](https://github.com/JatinThakur-797/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/JatinThakur-797/Leetcode/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/JatinThakur-797/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/JatinThakur-797/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/JatinThakur-797/Leetcode/tree/master/0078-subsets) |
@@ -87,6 +88,7 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JatinThakur-797/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/JatinThakur-797/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JatinThakur-797/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/JatinThakur-797/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/JatinThakur-797/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -373,6 +375,7 @@ That is my leetcode journey
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/JatinThakur-797/Leetcode/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/JatinThakur-797/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0861-score-after-flipping-matrix](https://github.com/JatinThakur-797/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/JatinThakur-797/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
