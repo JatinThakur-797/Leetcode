@@ -53,6 +53,7 @@ That is my leetcode journey
 | [1470-shuffle-the-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JatinThakur-797/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1590-make-sum-divisible-by-p](https://github.com/JatinThakur-797/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -172,6 +173,7 @@ That is my leetcode journey
 | [0974-subarray-sums-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/JatinThakur-797/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2536-increment-submatrices-by-one](https://github.com/JatinThakur-797/Leetcode/tree/master/2536-increment-submatrices-by-one) |
@@ -202,6 +204,7 @@ That is my leetcode journey
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JatinThakur-797/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/JatinThakur-797/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JatinThakur-797/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/JatinThakur-797/Leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -551,6 +554,7 @@ That is my leetcode journey
 | [1137-n-th-tribonacci-number](https://github.com/JatinThakur-797/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JatinThakur-797/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/JatinThakur-797/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JatinThakur-797/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/JatinThakur-797/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
