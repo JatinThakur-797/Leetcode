@@ -64,6 +64,7 @@ That is my leetcode journey
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JatinThakur-797/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/JatinThakur-797/Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/JatinThakur-797/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/JatinThakur-797/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2536-increment-submatrices-by-one](https://github.com/JatinThakur-797/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -177,6 +178,7 @@ That is my leetcode journey
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/JatinThakur-797/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/JatinThakur-797/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2536-increment-submatrices-by-one](https://github.com/JatinThakur-797/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JatinThakur-797/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/JatinThakur-797/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -237,6 +239,7 @@ That is my leetcode journey
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/JatinThakur-797/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JatinThakur-797/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JatinThakur-797/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JatinThakur-797/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JatinThakur-797/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -295,6 +298,7 @@ That is my leetcode journey
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JatinThakur-797/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JatinThakur-797/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JatinThakur-797/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JatinThakur-797/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -391,6 +395,7 @@ That is my leetcode journey
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/JatinThakur-797/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JatinThakur-797/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JatinThakur-797/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/JatinThakur-797/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/JatinThakur-797/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JatinThakur-797/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
