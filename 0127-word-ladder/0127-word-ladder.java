@@ -1,43 +1,33 @@
-import java.util.*;
+class Solution {
+    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        Queue<String> q = new LinkedList<>();
+        q.add(beginWord);
+        int ans = 1;
+        Set<String> set = new HashSet<>();
+        while(!q.isEmpty()){
+            int size = q.size();
 
-class Solution { 
-    public int ladderLength(String beginWord, String endWord, List<String> wordList) { 
-        Set<String> wordSet = new HashSet<>(wordList); 
-         if (!wordSet.contains(endWord)) return 0; 
-        
-        Queue<String> queue = new LinkedList<>(); 
-        queue.add(beginWord); 
-        
-        int steps = 1; 
-        
-      while (!queue.isEmpty()) { 
-            int size = queue.size(); 
-            
-            for (int i = 0; i < size; i++) { 
-                String word = queue.poll(); 
-                
-              if (word.equals(endWord)) return steps; 
-                
-               char[] chars = word.toCharArray(); 
-                
-                for (int j = 0; j < chars.length; j++) { 
-                    char originalChar = chars[j]; 
-                    
-                    for (char k = 'a'; k <= 'z'; k++) { 
-                        chars[j] = k; 
-                        String nextWord = new String(chars); 
-                        
-                        if (wordSet.contains(nextWord)) { 
-                            queue.add(nextWord); 
-                            wordSet.remove(nextWord);
-                        } 
-                    } 
-                    chars[j] = originalChar;
-                       } 
-            } 
-            steps++; 
-        } 
-        
+            for(int i = 0 ; i<size ; i++){
+                String val = q.poll();
+                if(val.equals(endWord)) return ans;
+                for(String s : wordList){
+                    if(set.contains(s)) continue;
+                   int count = 0;
+
+                    for(int j = 0 ; j<s.length() ; j++){
+                        if(val.charAt(j) != s.charAt(j)){
+                            count++;
+                        }
+                    }
+                    if(count == 1){
+                        q.add(s);
+                        set.add(s);
+                    }
+                }
+
+            }
+            ans++;
+        }
         return 0;
-    } 
+    }
 }
