@@ -695,4 +695,8 @@ That is my leetcode journey
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JatinThakur-797/Leetcode/tree/master/0169-majority-element) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/JatinThakur-797/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
